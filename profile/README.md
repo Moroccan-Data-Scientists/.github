@@ -1,13 +1,9 @@
-# Moroccan Data Scientists (MDS)
-Welcome to the Moroccan Data Scientists (MDS) GitHub repository!
-
-## About Us
-Moroccan Data Scientists (MDS) is a community-driven initiative aimed at promoting data science and related fields in Morocco. Our mission is to foster collaboration, share knowledge, and support the growth of data science professionals in Morocco.
+**Moroccan Data Scientists (MDS)** is a community-driven initiative aimed at promoting data science and related fields in Morocco. Our mission is to foster collaboration, share knowledge, and support the growth of data science professionals in Morocco.
 
 ## How to Join
 We welcome all data enthusiasts to join our community. To become a team member, follow these steps:
 
-1. Visit our [website](http://moroccands.com).
+1. Visit our [website](http://moroccands.com/hiring).
 2. Navigate to the "Join Us" section.
 3. Fill out the membership form with your details.
 4. Submit the form and wait for a confirmation email from our team.
@@ -19,5 +15,8 @@ We encourage members to contribute to our projects and share their ideas. Here a
 - **Share Your Knowledge**: Write blog posts, create tutorials, or give talks on data science topics. Share your content with the community through our website or GitHub.
 - **Participate in Discussions**: Join our discussions on GitHub or participate in our webinars and meetups.
 
-## Website
-For more information, visit our [website](http://moroccands.com).
+## Links
+- [Website](http://moroccands.com)
+- [Hugging Face](https://huggingface.co/organizations/MoroccanDS/)
+- [LinkedIn](https://www.linkedin.com/company/moroccands/)
+- [Instagram](https://www.instagram.com/moroccoData)
